@@ -225,3 +225,5 @@ vector_store/
 logs/
 *.faiss
 *.pkl
+# Research papers (local only)
+documents/papers/

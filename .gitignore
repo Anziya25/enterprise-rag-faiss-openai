@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# ============================
+# Enterprise RAG Project
+# ============================
+
+uploads/
+vector_store/
+logs/
+*.faiss
+*.pkl

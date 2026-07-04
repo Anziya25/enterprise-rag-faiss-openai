@@ -1,0 +1,5 @@
+Research Paper RAG Assistant
+
+This project helps researchers query research papers using Retrieval-Augmented Generation.
+
+The system uses OpenAI embeddings and FAISS for semantic search.

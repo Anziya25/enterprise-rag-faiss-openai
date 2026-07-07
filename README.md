@@ -78,7 +78,7 @@ pip install -r requirements.txt
 Clone the repository.
 
 ```bash
-git clone https://github.com/Anziya25/enterprise-rag-faiss-openai.git
+git clone https://github.com/Anziya25/docpilot.git
 
 cd enterprise-rag-faiss-openai
 ```
